@@ -1,0 +1,3 @@
+timestamp,side,type,size,entry_price,exit_price,profit,sl_triggered
+2025-09-29 09:17:00,long,open,0.022,111806.9,,0.0,False
+2025-09-29 11:26:00,long,close,0.022,111806.9,111672.7,-44.28599999999904,False
